@@ -15,13 +15,14 @@
 # in the templates via {{ site.myvariable }}.
 title: JammingWithJAM
 email:
-description: >- # this means to ignore newlines until "baseurl:"
-CyberJournal Logs – an evolving knowledge base on ethical hacking, bug bounty, and secure development.
-Where code meets curiosity, and every vulnerability unfolds a lesson.
-I believe persistence is the true power of every cyber warrior.
+description: >-
+  CyberJournal Logs – an evolving knowledge base on ethical hacking, bug bounty, and secure development.
+  Where code meets curiosity, and every vulnerability unfolds a lesson.
+  I believe persistence is the true power of every cyber warrior.
 
-These logs are more than just dry theory — they're a real-world guide for anyone walking the path from zero to root.
-Join me for hands-on tips, practical tricks, and sharp insights that make cybersecurity simple, direct, and worth every byte.
+  These logs are more than just dry theory — they're a real-world guide for anyone walking the path from zero to root.
+  Join me for hands-on tips, practical tricks, and sharp insights that make cybersecurity simple, direct, and worth every byte.
+.
  
 twitter_username: username
 github_username: username
