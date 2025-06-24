@@ -36,7 +36,7 @@ theme: minimal-mistakes-jekyll
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: Asia/Kolkata
+#timezone: #Asia/Kolkata
 include:
   - _pages
 
