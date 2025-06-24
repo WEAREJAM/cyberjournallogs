@@ -13,12 +13,16 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
+title: JammingWithJAM
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+CyberJournal Logs – an evolving knowledge base on ethical hacking, bug bounty, and secure development.
+Where code meets curiosity, and every vulnerability unfolds a lesson.
+I believe persistence is the true power of every cyber warrior.
+
+These logs are more than just dry theory — they're a real-world guide for anyone walking the path from zero to root.
+Join me for hands-on tips, practical tricks, and sharp insights that make cybersecurity simple, direct, and worth every byte.
+ 
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: default
@@ -58,9 +62,12 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "WeAreJam"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "I'm JAM — cybersecurity enthusiast, bug bounty learner, and ethical hacker in progress.
+Through this blog, I document everything I break (legally 😉), learn, and build.  
+Tools I love: Burp Suite, OWASP BWA, Kali Linux, DVWA.
+This is where my curiosity and persistence meet. Let's grow together."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
