@@ -17,7 +17,6 @@ search: true
 
 markdown: kramdown
 remote_theme: "mmistakes/minimal-mistakes"
-theme: minimal-mistakes-jekyll
 
 permalink: /:categories/:title/
 paginate: 5
