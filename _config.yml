@@ -1,6 +1,6 @@
 # Welcome to Jekyll!
 
-title: JammingWithJAM
+title: ""
 email: ""
 description: >-
   CyberJournal Logs – an evolving knowledge base on ethical hacking, bug bounty, and secure development.
@@ -34,7 +34,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name: "WeAreJam"
+  name: "JammingWithJAM"
   avatar: "/JAM.jpg"
   bio: >-
     I'm JAM — cybersecurity enthusiast, bug bounty learner, and ethical hacker in progress.
