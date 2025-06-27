@@ -11,7 +11,7 @@ description: >-
   Join me for hands-on tips, practical tricks, and sharp insights that make cybersecurity simple, direct, and worth every byte.
 
 twitter_username: username
-github_username: username
+github_username: WEAREJAM
 minimal_mistakes_skin: default
 search: true
 
@@ -42,15 +42,12 @@ author:
     Tools I love: Burp Suite, OWASP BWA, Kali Linux, DVWA.
     This is where my curiosity and persistence meet. Let's grow together.
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/WEAREJAM"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
@@ -62,7 +59,7 @@ footer:
       url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/WEAREJAM"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
