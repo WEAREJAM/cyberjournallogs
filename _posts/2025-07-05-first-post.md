@@ -14,7 +14,7 @@ Let's see from my perspective now.
 ---
 
 <p align="center">
-  <img src="/assets/images/OSI1.png" alt="OSI Diagram 1">
+  <img src="https://wearejam.github.io/cyberjournallogs/assets/images/OSI1.png" alt="OSI Diagram 1">
 </p>
 
 ---
@@ -27,7 +27,7 @@ Let's see this OSI layer with an example: Email
 ---
 
 <p align="center">
-  <img src="/assets/images/OSI2.png" alt="OSI Diagram 2">
+  <img src="[/assets/images/OSI2.png](https://wearejam.github.io/cyberjournallogs/assets/images/OSI2.png)" alt="OSI Diagram 2">
 </p>
 
 ---
