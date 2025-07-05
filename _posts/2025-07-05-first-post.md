@@ -5,7 +5,8 @@ date: 2025-07-05
 categories: cyberjournallogs getting-started
 tags: [first-post, cyberjournallogs, OSI Understanding, Advanced Level]
 ---
-OPEN SYSTEM INTERCONNECTION 
+
+**OPEN SYSTEM INTERCONNECTION** 
 
 OSI Layer Understanding: 
 OSI is a framework that standardizes the functions of telecommunication or computing systems into seven layers. Each layer has specific responsibilities. With this flow, we can understand how communication works and which security layers it passes through. 
