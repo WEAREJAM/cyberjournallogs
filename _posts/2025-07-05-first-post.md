@@ -14,7 +14,7 @@ Let's see from my perspective now.
 ---
 
 <p align="center">
-  <img src="_assets/OSI Layer 1.png" alt="OSI Banner" width="500">
+  <img src="asserts/images/OSI Layer 1.png" alt="OSI Banner" width="500">
 </p>
 
 ---
@@ -25,7 +25,7 @@ Let's see this OSI layer with an example: Email
 ---
 
 <p align="center">
-  <img src="_assets/OSI Layer 2.png" alt="OSI Banner" width="500">
+  <img src="asserts/images/OSI Layer 2.png" alt="OSI Banner" width="500">
 </p>
 
 ---
