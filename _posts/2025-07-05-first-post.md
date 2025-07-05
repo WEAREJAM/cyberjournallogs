@@ -10,8 +10,8 @@ tags: [first-post, cyberjournallogs, OSI Understanding, Advanced Level]
 
 OSI Layer Understanding: 
 OSI is a framework that standardizes the functions of telecommunication or computing systems into seven layers. Each layer has specific responsibilities. With this flow, we can understand how communication works and which security layers it passes through. 
-
 Let's see from my perspective now.
+
 ---
 
 <p align="center">
