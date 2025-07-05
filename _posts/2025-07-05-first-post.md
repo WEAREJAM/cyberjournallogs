@@ -14,18 +14,20 @@ Let's see from my perspective now.
 ---
 
 <p align="center">
-  <img src="assets/images/OSI1.png">
+  <img src="/assets/images/OSI1.png" alt="OSI Diagram 1">
 </p>
 
 ---
-The above image shows the flow of communication reaching from sender A to receiver B. 
+
+The above image shows the flow of communication reaching from sender A to receiver B.  
 Let's see how I picture this OSI layer. This sender A communication will always encrypt the message, and receiver B will decrypt the data. 
 
-Let's see this OSI layer with an example: Email 
+Let's see this OSI layer with an example: Email
+
 ---
 
 <p align="center">
-  <img src="assets/images/OSI2.png">
+  <img src="/assets/images/OSI2.png" alt="OSI Diagram 2">
 </p>
 
 ---
