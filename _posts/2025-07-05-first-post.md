@@ -27,7 +27,7 @@ Let's see this OSI layer with an example: Email
 ---
 
 <p align="center">
-  <img src="[/assets/images/OSI2.png](https://wearejam.github.io/cyberjournallogs/assets/images/OSI2.png)" alt="OSI Diagram 2">
+  <img src="https://wearejam.github.io/cyberjournallogs/assets/images/OSI2.png" alt="OSI Diagram 2">
 </p>
 
 ---
@@ -62,10 +62,15 @@ Devices used: NICs, hubs, cables, repeaters, antennas, etc.
 **Receiver’s Side: Decryption process**
 
 Now the receiver side 
+
 Physical Layer - Bits are reassembled into frames 
+
 Data Link Layer - MAC checked
+
 Network Layer - IP checked
+
 Transport Layer - Segments are reordered and checked
+
 Session Layer - Session validated
 Presentation Layer - Email decrypted 
 Application Layer - Email gets to the Inbox 
