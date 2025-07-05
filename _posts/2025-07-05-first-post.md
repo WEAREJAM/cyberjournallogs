@@ -14,7 +14,7 @@ Let's see from my perspective now.
 ---
 
 <p align="center">
-  <img src="/JAM.jpg" alt="Cyber Banner" width="500">
+  <img src="_assets/OSI Layer 1.png" alt="OSI Banner" width="500">
 </p>
 
 ---
@@ -25,12 +25,13 @@ Let's see this OSI layer with an example: Email
 ---
 
 <p align="center">
-  <img src="/JAM.jpg" alt="Cyber Banner" width="500">
+  <img src="_assets/OSI Layer 2.png" alt="OSI Banner" width="500">
 </p>
 
 ---
 
 **Sender's Side:  Encryption process** 
+
 Application Layer - The user composes and sends an email using an application like Gmail or Outlook. The app uses SMTP (Simple Mail Transfer Protocol) to handle the message.It sends the raw data (email) down to the next layer as an APDU (Application Protocol Data Unit).
 
 Presentation layer - The Presentation Layer is responsible for formatting, compressing, or encrypting data.In this case, it encrypts the raw email using TLS (Transport Layer Security).
@@ -53,10 +54,11 @@ Data Link Layer - The IP packet is encapsulated inside a frame with:
 2. Frame Check Sequence (FCS) for error detection
 This becomes a Frame (Data Link PDU). Sent to the physical layer.
 
-Physical Layer - The frame is turned into raw bits (1s and 0s) . These bits are sent as electrical, optical, or radio signals through the physical medium (like Ethernet cable, Wi-Fi, fiber).
+Physical Layer - The frame is turned into raw bits (1s and 0s). These bits are sent as electrical, optical, or radio signals through the physical medium (like Ethernet cable, Wi-Fi, or fiber).
 Devices used: NICs, hubs, cables, repeaters, antennas, etc.
 
 **Receiver’s Side: Decryption process**
+
 Now the receiver side 
 Physical Layer - Bits are reassembled into frames 
 Data Link Layer - MAC checked
