@@ -15,7 +15,7 @@ Let's see from my perspective now.
 ---
 
 <p align="center">
-  <img src="https://github.com/WEAREJAM/cyberjournallogs/blob/main/assets/osi_architecture_diagram_2.jpg.jpg" alt="OSI Diagram 1">
+  <img src="https://github.com/WEAREJAM/cyberjournallogs/blob/main/assets/images/osi_architecture_diagram_2.jpg.jpg" alt="OSI Diagram 1">
 </p>
 
 ---
@@ -28,7 +28,7 @@ Let's see this OSI layer with an example: Email
 ---
 
 <p align="center">
-  <img src="https://github.com/WEAREJAM/cyberjournallogs/blob/main/assets/osi_architecture_diagram_2.jpg.jpg" alt="OSI Diagram 2">
+  <img src="https://github.com/WEAREJAM/cyberjournallogs/blob/main/assets/Images/osi_architecture_diagram_2.jpg.jpg" alt="OSI Diagram 2">
 </p>
 
 ---
