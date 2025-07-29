@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Welcome to CyberJournalLogs! With JAM"
+title: "The Secret Life of an Email – OSI Model in Action"
 date: 2025-07-05
 categories: cyberjournallogs getting-started
 tags: [first-post, cyberjournallogs, OSI Understanding, Advanced Level]
@@ -15,7 +15,7 @@ Let's see from my perspective now.
 ---
 
 <p align="center">
-  <img src="https://github.com/WEAREJAM/cyberjournallogs/blob/main/assets/images/osi_architecture_diagram_1.jpg" alt="OSI Diagram 1">
+  <img src="https://github.com/WEAREJAM/cyberjournallogs/blob/main/assets/osi_architecture_diagram_1.jpg" alt="OSI Diagram 1">
 </p>
 
 ---
