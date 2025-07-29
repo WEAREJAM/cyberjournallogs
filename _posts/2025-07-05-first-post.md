@@ -28,7 +28,7 @@ Let's see this OSI layer with an example: Email
 ---
 
 <p align="center">
-  <img src="https://wearejam.github.io/cyberjournallogs/assets/images/OSI2.png" alt="OSI Diagram 2">
+  <img src="https://wearejam.github.io/cyberjournallogs/assets/osi_architecture_diagram_2.pdf_20250729_121630_0000.pdf" alt="OSI Diagram 2">
 </p>
 
 ---
