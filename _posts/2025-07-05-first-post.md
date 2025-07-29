@@ -15,7 +15,7 @@ Let's see from my perspective now.
 ---
 
 <p align="center">
-  <img src="https://wearejam.github.io/cyberjournallogs/osi_architecture_diagram_1.pdf_20250729_121353_0000.pdf" alt="OSI Diagram 1">
+  <img src="https://wearejam.github.io/cyberjournallogs/osi_architecture_diagram_1.pdf_20250729_121353_0000-1" alt="OSI Diagram 1">
 </p>
 
 ---
