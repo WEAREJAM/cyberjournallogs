@@ -12,9 +12,7 @@ description: >-
 
 twitter_username: username
 github_username: WEAREJAM
-minimal_mistakes_skin: dark
-minima:
-  skin: dark
+minimal_mistakes_skin: default
   
 search: true
 
