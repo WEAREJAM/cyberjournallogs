@@ -3,7 +3,7 @@ layout: post
 title: How Secure Is Your Password?
 date: 2025-09-01
 categories: cyberjournallogs password-security
-tags: password-strength brute-force hydra john-the-ripper cupp MFA
+tags: [password-strength, brute-force, hydra, john-the-ripper, cupp, MFA]
 ---
 
 # How secure is your password?
