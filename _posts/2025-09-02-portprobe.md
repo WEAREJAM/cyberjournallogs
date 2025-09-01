@@ -1,3 +1,10 @@
+---
+layout: post
+title: "Port Scanning & Packet Analysis using Nmap and Wireshark"
+date: 2025-09-02
+categories: [cyberjournallogs, network-security]
+tags: [nmap, wireshark, port-scanning, tcp, udp, metasploitable, vulnerability-analysis]
+---
 # Port Scanning & Packet Analysis using Nmap and Wireshark
 This is the basic task of checking our local network for vulnerable ports. The ports are the most searched and most found vulnerabilities if they are not secured. 
 
