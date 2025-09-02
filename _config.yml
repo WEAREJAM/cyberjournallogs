@@ -1,6 +1,6 @@
 # Welcome to Jekyll!
 
-title: ""
+title: "CyberJournal Logs"
 email: ""
 description: >-
   CyberJournal Logs – an evolving knowledge base on ethical hacking, bug bounty, and secure development.
@@ -12,12 +12,12 @@ description: >-
 
 twitter_username: username
 github_username: WEAREJAM
-minimal_mistakes_skin: default
-  
+minimal_mistakes_skin: dark # or default, you can switch skins
+
 search: true
 
 markdown: kramdown
-remote_theme: "mmistakes/minimal-mistakes"
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
 permalink: /:categories/:title/
 paginate: 5
@@ -37,10 +37,10 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
-  
+
 author:
   name: "JammingWithJAM"
-  avatar: "/JAM.jpg"
+  avatar: "/assets/images/JAM.jpg"
   bio: >-
     I'm JAM — cybersecurity enthusiast, bug bounty learner, and ethical hacker in progress.
     Through this blog, I document everything I break (legally 😉), learn, and build.
@@ -54,7 +54,7 @@ footer:
       url: "https://github.com/WEAREJAM"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "www.linkedin.com/in/jahnavimakaraju23"
+      url: "https://www.linkedin.com/in/jahnavimakaraju23"
 
 defaults:
   - scope:
@@ -63,8 +63,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-      sidebar:
-      nav: "sidebar"
       read_time: true
       comments: true
       share: true
