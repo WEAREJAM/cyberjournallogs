@@ -28,7 +28,7 @@ Explore posts on ethical hacking, network security, password protection, and pra
 - [Port Scanning & Packet Analysis using Nmap and Wireshark](/cyberjournallogs/network-security/portprobe/) 
   - Tags: nmap, wireshark, port-scanning, tcp, udp, metasploitable, vulnerability-analysis
 
-- [Mastering Firewall Rules: Blocking & Allowing Traffic Made Simple](/cyberjournallogs/firewall-security/mastering-firewall-rules/) 
+- [Mastering Firewall Rules: Blocking & Allowing Traffic Made Simple](https://github.com/WEAREJAM/WEAREJAM-Kickstart_at_ElevateLabs-firewall-rule) 
   - Tags: firewall, traffic-control, rules, inbound, outbound, ufw, network-security
 
 - [How Secure Is Your Password?](/cyberjournallogs/password-security/password-strength/) 
