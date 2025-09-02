@@ -25,22 +25,4 @@ title: Cyber Journal Logs
       <a href="https://linkedin.com/" style="color:#3b82f6; margin:0 10px; text-decoration:none;">LinkedIn</a>
     </div>
   </div>
-
-  <!-- RIGHT COLUMN - Blog Posts -->
-  <div>
-    <h1>Cyber Journal Logs</h1>
-    <h3 style="margin-bottom:20px;">Recent Posts</h3>
-
-    <!-- Jekyll auto-populates posts -->
-    <ul>
-      {% for post in site.posts %}
-        <li style="margin-bottom:20px;">
-          <a href="{{ post.url }}" style="font-size:18px; font-weight:600; color:#2563eb; text-decoration:none;">
-            {{ post.title }}
-          </a>
-          <p style="font-size:14px; color:#6b7280;">{{ post.excerpt | strip_html | truncate: 120 }}</p>
-        </li>
-      {% endfor %}
-    </ul>
-  </div>
 </div>
