@@ -25,14 +25,16 @@ Explore posts on ethical hacking, network security, password protection, and pra
 
 ## Latest Posts
 
-- [Port Scanning & Packet Analysis using Nmap and Wireshark](/cyberjournallogs/network-security/portprobe/) 
-  - Tags: nmap, wireshark, port-scanning, tcp, udp, metasploitable, vulnerability-analysis
+- [Port Scanning & Packet Analysis using Nmap and Wireshark](https://github.com/WEAREJAM/Kickstart_at_ElevateLabs-WiresharkAnalysis/blob/main/findings.md) 
 
-- [Mastering Firewall Rules: Blocking & Allowing Traffic Made Simple](https://github.com/WEAREJAM/WEAREJAM-Kickstart_at_ElevateLabs-firewall-rule) 
-  - Tags: firewall, traffic-control, rules, inbound, outbound, ufw, network-security
+- [Mastering Firewall Rules: Blocking & Allowing Traffic Made Simple](https://github.com/WEAREJAM/WEAREJAM-Kickstart_at_ElevateLabs-firewall-rule/blob/main/findings.md) 
 
-- [How Secure Is Your Password?](/cyberjournallogs/password-security/password-strength/) 
-  - Tags: password-strength, brute-force, hydra, john-the-ripper, cupp, MFA
+- [How Secure Is Your Password?](https://github.com/WEAREJAM/Kickstart_at_ElevateLabs-HowSecureIsYourPassword/blob/main/findings.md) 
 
 - [The Secret Life of an Email – OSI Model in Action](/cyberjournallogs/first-post/) 
-  - Tags: jekyll, theme
+ 
+- [Your guide to inspect an phishing mail](https://github.com/WEAREJAM/Kickstart_at_ElevateLabs-PhishingInspector/blob/main/findings.md)
+
+- [Vulnerability Insight & Exploitation](https://github.com/WEAREJAM/Kickstart_at_ElevateLabs-Vulnerability-Insight/blob/main/findings.md)
+
+- [The Secret Life of an Email – OSI Model in Action](https://github.com/WEAREJAM/cyberjournallogs/blob/main/_posts/2025-07-05-first-post.md)
