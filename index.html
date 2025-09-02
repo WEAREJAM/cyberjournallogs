@@ -7,4 +7,8 @@ title: CyberJournal Logs
 
 This is where I document cybersecurity tutorials, bug bounty tips, and ethical hacking guides.
 
-
+## Latest Posts
+{% for post in site.posts %}
+- [{{ post.title }}]({{ post.url }}) — {{ post.date | date: "%b %d, %Y" }}
+  - Tags: {% for tag in post.tags %}{{ tag }} {% endfor %}
+{% endfor %}
