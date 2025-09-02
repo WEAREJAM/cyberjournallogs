@@ -8,19 +8,16 @@ title: CyberJournal Logs
 This is where I document cybersecurity tutorials, bug bounty tips, and ethical hacking guides.  
 Explore posts on ethical hacking, network security, password protection, and practical cybersecurity tips.
 
-<div class="profile-card">
-  <div class="profile-content">
-    <h3>I'm JAM</h3>
-    <p>Cybersecurity enthusiast, bug bounty learner, and ethical hacker in progress.<br>
-       Through this blog, I document everything I break (legally 😉), learn, and build.<br>
-       Tools I love: Burp Suite, OWASP BWA, Kali Linux, DVWA.<br>
-       This is where my curiosity and persistence meet. Let's grow together.
-    </p>
-  </div>
-  <div class="profile-links">
-    <a href="https://github.com/WEAREJAM" target="_blank"><i class="fab fa-github"></i> GitHub</a> |
-    <a href="https://www.linkedin.com/in/jahnavimakaraju23" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn</a>
-  </div>
+
+<div class="callout callout-dark">
+### I'm JAM
+
+Cybersecurity enthusiast, bug bounty learner, and ethical hacker in progress.  
+Through this blog, I document everything I break (legally 😉), learn, and build.  
+Tools I love: Burp Suite, OWASP BWA, Kali Linux, DVWA.  
+This is where my curiosity and persistence meet. Let's grow together.
+
+**Links:** [GitHub](https://github.com/WEAREJAM) | [LinkedIn](https://www.linkedin.com/in/jahnavimakaraju23)
 </div>
 
 ## Latest Posts
