@@ -1,9 +1,9 @@
 ---
-layout: post
+layout: Post
 title: "The Secret Life of an Email – OSI Model in Action"
-date: 2025-07-05
-categories: cyberjournallogs getting-started
-tags: [first-post, cyberjournallogs, OSI Understanding, Advanced Level]
+categories: [cyberjournallogs]
+tags: [jekyll, theme]
+author_profile: true
 ---
 
 **OPEN SYSTEM INTERCONNECTION** 
