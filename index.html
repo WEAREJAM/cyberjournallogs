@@ -2,3 +2,45 @@
 layout: home
 title: Cyber Journal Logs
 ---
+
+<div style="display: grid; grid-template-columns: 1fr 2fr; gap: 20px; max-width: 1200px; margin: 0 auto;">
+
+  <!-- LEFT COLUMN - Profile Card -->
+  <div style="background:#111827; color:white; padding:25px; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.4); text-align:center;">
+
+    <img src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" 
+         alt="Profile Photo" 
+         style="width:100px; height:100px; border-radius:50%; margin-bottom:15px; border:3px solid #2563eb;">
+
+    <h2 style="margin:10px 0; font-size:24px;">Makaraju Jahnavi</h2>
+    <p style="font-size:16px; color:#d1d5db;">Cybersecurity Enthusiast | Blogger</p>
+
+    <p style="margin-top:15px; font-size:14px; line-height:1.6; color:#9ca3af;">
+      Writing about penetration testing, tools, and attack simulations.<br>
+      Documenting my cybersecurity journey.
+    </p>
+
+    <div style="margin-top:20px;">
+      <a href="https://github.com/" style="color:#3b82f6; margin:0 10px; text-decoration:none;">GitHub</a>
+      <a href="https://linkedin.com/" style="color:#3b82f6; margin:0 10px; text-decoration:none;">LinkedIn</a>
+    </div>
+  </div>
+
+  <!-- RIGHT COLUMN - Blog Posts -->
+  <div>
+    <h1>Cyber Journal Logs</h1>
+    <h3 style="margin-bottom:20px;">Recent Posts</h3>
+
+    <!-- Jekyll auto-populates posts -->
+    <ul>
+      {% for post in site.posts %}
+        <li style="margin-bottom:20px;">
+          <a href="{{ post.url }}" style="font-size:18px; font-weight:600; color:#2563eb; text-decoration:none;">
+            {{ post.title }}
+          </a>
+          <p style="font-size:14px; color:#6b7280;">{{ post.excerpt | strip_html | truncate: 120 }}</p>
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
+</div>
