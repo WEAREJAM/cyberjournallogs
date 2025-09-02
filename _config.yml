@@ -29,6 +29,7 @@ include:
   - _pages
 
 plugins:
+  - jekyll-remote-theme
   - jekyll-seo-tag
   - jekyll-paginate
   - jekyll-sitemap
@@ -36,7 +37,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
-
+  
 author:
   name: "JammingWithJAM"
   avatar: "/JAM.jpg"
