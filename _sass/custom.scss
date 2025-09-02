@@ -1,0 +1,24 @@
+.profile-card {
+  background: #1e1e1e;
+  color: #fff;
+  padding: 20px;
+  border-radius: 15px;
+  box-shadow: 0 6px 15px rgba(0,0,0,0.4);
+  max-width: 600px;
+  margin: 20px auto;
+}
+
+.profile-links {
+  margin-top: 15px;
+  font-size: 1rem;
+}
+
+.profile-links a {
+  color: #00acee; /* GitHub/LinkedIn highlight color */
+  text-decoration: none;
+  margin-right: 10px;
+}
+
+.profile-links a i {
+  margin-right: 5px;
+}
